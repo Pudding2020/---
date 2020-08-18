@@ -1,4 +1,4 @@
-*  数据库
--  order by 不能写在where前面 会报语法错误
+# 数据库
+- order by 不能写在where前面 会报语法错误
 
 order by默认是升序，要降序可以用desc
